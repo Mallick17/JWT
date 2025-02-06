@@ -1,4 +1,4 @@
-## JSON Web Tokens
+## JSON(Java Script Object Notation) Web Tokens
 - JWT is an open standard (RFC 7519) that defines a compact, self-contained way to securely transmit information between parties as a JSON object.
 - **Purpose:**
   - It is commonly used for authentication and authorization in web applications.
